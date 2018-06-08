@@ -1,20 +1,20 @@
 #top{
-    border-bottom-style: solid;
-    border-bottom-width: thin;
+    border-bottom-style: solid;/*this defines the syle of the border*/
+    border-bottom-width: thin;/*this defines the width/thickness of the border*/
 }
 h1{
-    border-bottom-style: solid;
-    border-bottom-width: thin;
+    border-bottom-style: solid;/*this defines the syle of the border*/
+    border-bottom-width: thin;/*this defines the width/thickness of the border*/
 }
 article{
-    border-bottom-style: solid;
-    border-bottom-width: thin;
+    border-bottom-style: solid;/*this defines the syle of the border*/
+    border-bottom-width: thin;/*this defines the width/thickness of the border*/
 }
 footer{
-    border-bottom-style: solid;
-    border-bottom-width: thin;
+    border-bottom-style: solid;/*this defines the syle of the border*/
+    border-bottom-width: thin;/*this defines the width/thickness of the border*/
 }
 body{
-    border-bottom-style: solid;
-    border-bottom-width: thin;
+    border-bottom-style: solid;/*this defines the syle of the border*/
+    border-bottom-width: thin;/*this defines the width/thickness of the border*/
 }
